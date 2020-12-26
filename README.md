@@ -13,5 +13,5 @@ The pypang is simple arcade game. Bounce balls are droped from the top. run and 
 - attack : "space"
 
 ## Notice
-you need python module "pygame"
+you need python module "pygame"   
 install command : `$ python -m pip install pygame`
